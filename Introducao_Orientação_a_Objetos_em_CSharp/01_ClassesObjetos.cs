@@ -1,4 +1,4 @@
-//Documento de Consulta para iniciantes criado por Roberto Oliveira (github.com/RobertoOll)
+//Documento de Consulta para iniciantes criado por Roberto Oliveira (https://github.com/IsTheJack)
 
 //Este documento contém:
 //	--> Definição de Classe / Objeto
